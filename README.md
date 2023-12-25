@@ -1,5 +1,5 @@
 # Autonomous Pacman
-This repository contains an AI agent for Pacman in a multi-agent environment. Algorithms such as value iteration based on the Markov Decision Process as well as Q-learning is utilized for the creation of the AI agent to allow Pacman to navigate to the terminal state with the highest rewards while avoiding the ghosts scattered on the map.
+This repository contains an AI agent for Pacman in a multi-agent environment. Algorithms such as value iteration based on the Markov Decision Process as well as Q-learning is utilized for the creation of the AI agent to allow Pacman to navigate to the terminal state with the highest rewards while avoiding the ghosts scattered on the map. Implementation for the AI agent for Pacman based on value iteration and Q-learning can be found in `agents/q1_agent.py` and `agents/q2_agent.py` respectively.
 
 ## Testing the AI Pacman based on value iteration 
 To test:
